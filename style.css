@@ -1,0 +1,20 @@
+body{
+    background-color: #111827 !important;
+}
+.navbar{
+    background-color: #0e131f !important;
+}
+.navbar-brand{
+    color: #65a4fa !important;
+}
+.navbar .navbar-nav .nav-item .nav-link:hover{
+    color: gold !important;
+}
+
+.hero h1{
+    color: #6fa0fa;
+    font-weight: bold;
+}
+#about .container{
+    box-shadow: 1px 2px 1px #0e131f !important;
+}
